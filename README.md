@@ -2,3 +2,4 @@
 Trabajo Grupal
 # Integrantes
 Andrea Quispe
+Tyron Falconi
